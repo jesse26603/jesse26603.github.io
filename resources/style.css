@@ -45,3 +45,7 @@ p {
     margin: 4px auto;
     font-size: 1.5rem;
 }
+
+img {
+    width: 50%;
+}
